@@ -1,8 +1,8 @@
 ## Hi there, I'm Gary 👋🏻
 
-I'm a developer with a love for open source, WordPress, and building tools that make developers' lives easier. I've been contributing to WordPress core for many years and enjoy experimenting with new technologies — from browser extensions to AI-powered collaborative editing.
+I'm a developer with a love for open source, WordPress, and building tools that make developers' lives easier. I've been contributing to WordPress core for many years and enjoy experimenting with new technologies, from browser extensions to AI-powered collaborative editing.
 
-- 🔭 I'm currently working on [claudaborative-editing](https://github.com/pento/claudaborative-editing) — an MCP server for real-time collaborative editing of WordPress posts between Claude Code and human editors in Gutenberg
+- 🔭 I'm currently working on [claudaborative-editing](https://github.com/pento/claudaborative-editing): an MCP server for real-time collaborative editing of WordPress posts between Claude Code and human editors in Gutenberg
 - 🌱 I'm currently exploring AI tooling, MCP servers, and GitHub Actions automation
 - 💬 Ask me about **WordPress**, **open source**, **browser extensions**, or **developer tooling**
 - 📫 How to reach me: [pento.net](https://pento.net/) · [LinkedIn](https://www.linkedin.com/in/gary-pendergast/)
