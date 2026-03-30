@@ -16,6 +16,7 @@ I'm a developer with a love for open source, WordPress, and building tools that 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -25,6 +26,7 @@ I'm a developer with a love for open source, WordPress, and building tools that 
 
 | Project | Description |
 |---------|-------------|
+| [linked_text](https://github.com/pento/linked_text) | Flutter widget that renders text with interpolated tappable links using a simple template syntax |
 | [testpress](https://github.com/pento/testpress) | Tool for getting a WordPress Core test environment up and running |
 | [linkify](https://github.com/pento/linkify) | Chrome & Firefox extension for automatically turning pasted URLs into links |
 | [claudaborative-editing](https://github.com/pento/claudaborative-editing) | MCP server for real-time collaborative editing of WordPress posts with Claude |
