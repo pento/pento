@@ -1,4 +1,4 @@
-## Hi there, I'm Gary 👋
+## Hi there, I'm Gary 👋🏻
 
 I'm a developer with a love for open source, WordPress, and building tools that make developers' lives easier. I've been contributing to WordPress core for many years and enjoy experimenting with new technologies — from browser extensions to AI-powered collaborative editing.
 
@@ -37,3 +37,4 @@ I'm a developer with a love for open source, WordPress, and building tools that 
 
 [![Website](https://img.shields.io/badge/pento.net-000000?style=flat-square&logo=About.me&logoColor=white)](https://pento.net/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gary-pendergast/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/pento)
